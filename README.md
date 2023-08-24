@@ -2,4 +2,4 @@
 Styles for horizontal [jChat](https://github.com/giambaJ/jChat) for OBS
 
 ## Remark
-BrowserSource should take up full screen
+Browser Source should take up full screen
