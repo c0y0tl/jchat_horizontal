@@ -1,0 +1,39 @@
+#chat_container {
+    word-break: keep-all;
+    display: flex;
+    left: 0;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.chat_line {
+    display: flex;
+    padding-right: 20px;
+}
+
+.badge {
+    display: none;
+}
+
+.message {
+    display: inline-block;
+    word-break: keep-all;
+    width: max-content;
+}
+
+.user_info {
+    display: flex;
+}
+
+.chat_line {
+    line-height: 30px;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
