@@ -1,4 +1,4 @@
-# jChat_horizontal
+# jchat_horizontal
 Styles for horizontal [jChat](https://github.com/giambaJ/jChat) for OBS
 
 ## Remark
