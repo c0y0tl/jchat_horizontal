@@ -1,7 +1,7 @@
 # Horizontal jChat
 ![Example](example.png)
   
-Styles for OBS Browser Source
+[jChat](https://www.giambaj.it/twitch/jchat/) styles for OBS Browser Source
 ```css
 #chat_container {
     width: max-content;
