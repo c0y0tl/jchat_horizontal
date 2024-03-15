@@ -1,28 +1,11 @@
 #chat_container {
+    width: max-content;
+    padding: 0;
     word-break: keep-all;
     display: flex;
-    left: 0;
     flex-direction: row-reverse;
-    justify-content: flex-end;
-    white-space: nowrap;
-    overflow: hidden;
 }
 
 .chat_line {
-    display: flex;
-    padding-right: 20px;
-}
-
-.badge {
-    display: none;
-}
-
-.message {
-    display: inline-block;
-    word-break: keep-all;
-    width: max-content;
-}
-
-.user_info {
-    display: flex;
+    padding-right: 10px;
 }
